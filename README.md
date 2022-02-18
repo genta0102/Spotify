@@ -1,5 +1,10 @@
 # Spotify-clone
-This is test and made that to learn how to use SpotyfyAPI.
+This is test and made that to learn how to use SpotifyAPI and does't have refactor yet. 
+This is clone of UI and you cannot actually listen to music. But I hope this will be help for making UI for you!!
+
+# 
+<img width="1440" alt="Screen Shot 2022-02-19 at 0 40 58" src="https://user-images.githubusercontent.com/77915080/154714491-bfff66ac-755e-4da8-b0ce-fc097dbb15bb.png">
+
 
 
 ## Getting Started with Create React App
