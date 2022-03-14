@@ -1,5 +1,5 @@
 # Spotify-clone
-This is test and made that to learn how to use SpotifyAPI and does't have refactor yet. 
+This is test and made that to learn how to use React/SpotifyAPI/Firebase and does't have refactor yet. 
 This is clone of UI and you cannot actually listen to music but you can experience how to authenticate with SpotifyAPI.
 I hope this will be help for making UI for you!!
 
